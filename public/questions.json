@@ -1,0 +1,130 @@
+{
+  "quiz": [
+    {
+      "topic": "Types of Force",
+      "question": "Which of the following is NOT a type of force?",
+      "options": ["Gravity", "Friction", "Elasticity", "Temperature"],
+      "answer": "Temperature"
+    },
+    {
+      "topic": "Types of Force",
+      "question": "Which force pulls objects toward the center of the Earth?",
+      "options": ["Magnetic force", "Frictional force", "Gravitational force", "Electric force"],
+      "answer": "Gravitational force"
+    },
+    {
+      "topic": "Effects of Force",
+      "question": "What can force do to an object?",
+      "options": ["Change its shape", "Increase its temperature", "Make it disappear", "Reduce its weight"],
+      "answer": "Change its shape"
+    },
+    {
+      "topic": "Effects of Force",
+      "question": "A force of 10 N is applied to a box of mass 2 kg. What is its acceleration?",
+      "options": ["2 m/s²", "5 m/s²", "10 m/s²", "20 m/s²"],
+      "answer": "5 m/s²"
+    },
+    {
+      "topic": "Frictional Force",
+      "question": "Which surface will produce the most friction?",
+      "options": ["Ice", "Wet floor", "Rough sandpaper", "Smooth glass"],
+      "answer": "Rough sandpaper"
+    },
+    {
+      "topic": "Frictional Force",
+      "question": "A box with a weight of 50 N is dragged across a rough surface with a frictional force of 15 N. What is the net force acting on the box?",
+      "options": ["50 N", "35 N", "15 N", "65 N"],
+      "answer": "35 N"
+    },
+    {
+      "topic": "Gravity and Planet Formation",
+      "question": "What force is responsible for keeping planets in orbit around the Sun?",
+      "options": ["Friction", "Gravity", "Magnetism", "Electric force"],
+      "answer": "Gravity"
+    },
+    {
+      "topic": "Gravity and Planet Formation",
+      "question": "An object is dropped from a height. If gravity is 9.8 m/s², what will be its velocity after 3 seconds?",
+      "options": ["9.8 m/s", "19.6 m/s", "29.4 m/s", "39.2 m/s"],
+      "answer": "29.4 m/s"
+    },
+    {
+      "topic": "The Moon, the Sun, and the Tides",
+      "question": "Which of these is responsible for ocean tides?",
+      "options": ["The wind", "The Sun’s light", "The Moon’s gravity", "The Earth's rotation"],
+      "answer": "The Moon’s gravity"
+    },
+    {
+      "topic": "The Moon, the Sun, and the Tides",
+      "question": "A satellite orbits the Earth at a height where the gravitational field strength is 4 N/kg. If its mass is 500 kg, what is the gravitational force acting on it?",
+      "options": ["2000 N", "500 N", "125 N", "4000 N"],
+      "answer": "2000 N"
+    },
+    {
+      "topic": "Eclipses and Space Exploration",
+      "question": "What type of eclipse occurs when the Moon blocks the Sun’s light?",
+      "options": ["Lunar Eclipse", "Solar Eclipse", "Partial Eclipse", "Annular Eclipse"],
+      "answer": "Solar Eclipse"
+    },
+    {
+      "topic": "Eclipses and Space Exploration",
+      "question": "An astronaut on the Moon jumps with a force of 300 N. If his mass is 60 kg, what is his acceleration due to gravity on the Moon? (Moon's gravity = 1.6 m/s²)",
+      "options": ["5 m/s²", "1.6 m/s²", "3 m/s²", "2 m/s²"],
+      "answer": "5 m/s²"
+    },
+    {
+      "topic": "Types of Force",
+      "question": "A car of mass 800 kg accelerates at 2 m/s². What is the force acting on it?",
+      "options": ["400 N", "1600 N", "2000 N", "1000 N"],
+      "answer": "1600 N"
+    },
+    {
+      "topic": "Types of Force",
+      "question": "Which of the following forces is a contact force?",
+      "options": ["Gravity", "Friction", "Magnetic force", "Electric force"],
+      "answer": "Friction"
+    },
+    {
+      "topic": "Effects of Force",
+      "question": "What is the weight of an object with mass 20 kg on Earth? (Take gravity as 9.8 m/s²)",
+      "options": ["9.8 N", "20 N", "196 N", "200 N"],
+      "answer": "196 N"
+    },
+    {
+      "topic": "Effects of Force",
+      "question": "A force of 30 N is applied to push a 10 kg object. What is the acceleration?",
+      "options": ["3 m/s²", "10 m/s²", "5 m/s²", "30 m/s²"],
+      "answer": "3 m/s²"
+    },
+    {
+      "topic": "Frictional Force",
+      "question": "Which of the following reduces friction?",
+      "options": ["Oil", "Sandpaper", "Adding weight", "Rough surfaces"],
+      "answer": "Oil"
+    },
+    {
+      "topic": "Frictional Force",
+      "question": "A car of mass 1000 kg is stopped by a frictional force of 5000 N. What is the deceleration?",
+      "options": ["2 m/s²", "5 m/s²", "10 m/s²", "50 m/s²"],
+      "answer": "5 m/s²"
+    },
+    {
+      "topic": "Resultant Force",
+      "question": "What is the resultant force when two equal forces act in opposite directions?",
+      "options": ["The sum of the forces", "The difference of the forces", "Zero", "The product of the forces"],
+      "answer": "Zero"
+    },
+    {
+      "topic": "Resultant Force",
+      "question": "A box is pushed with a force of 25 N to the right and 10 N to the left. What is the resultant force?",
+      "options": ["10 N left", "10 N right", "15 N left", "15 N right"],
+      "answer": "15 N right"
+    },
+    {
+      "topic": "Resultant Force",
+      "question": "Two people push a car: one applies 50 N to the right, and the other applies 30 N to the right. What is the total resultant force?",
+      "options": ["20 N right", "50 N right", "80 N right", "30 N right"],
+      "answer": "80 N right"
+    }
+  ]
+}

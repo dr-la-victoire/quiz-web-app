@@ -1,0 +1,39 @@
+.intro-container {
+  width: 80%;
+  text-align: center;
+  margin: 2em auto;
+}
+
+.hero-text h1 {
+  font-size: 5rem;
+}
+
+.small-text {
+  margin-top: 3em;
+  font-size: 2rem;
+}
+
+.play-buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.play-buttons button {
+  height: 3em;
+  width: 30%;
+  margin-top: 1em;
+  border-radius: 6px;
+  background-color: #fff;
+  cursor: pointer;
+  transition:
+    background-color 0.3s ease-in-out,
+    transform 0.2s ease-in-out;
+}
+
+.play-buttons button:hover {
+  background-color: #001f3f;
+  transform: scale(1.05);
+  color: #fff;
+}
