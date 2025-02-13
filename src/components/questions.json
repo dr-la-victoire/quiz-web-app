@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "Types of Force",
+    "question": "Which of the following is NOT a type of force?",
+    "options": ["Gravity", "Friction", "Elasticity", "Temperature"],
+    "answer": "Temperature",
+    "id": 1
+  },
+  {
+    "topic": "Types of Force",
+    "question": "Which force pulls objects toward the center of the Earth?",
+    "options": ["Magnetic force", "Frictional force", "Gravitational force", "Electric force"],
+    "answer": "Gravitational force",
+    "id": 2
+  },
+  {
+    "topic": "Effects of Force",
+    "question": "What can force do to an object?",
+    "options": ["Change its shape", "Increase its temperature", "Make it disappear", "Reduce its weight"],
+    "answer": "Change its shape",
+    "id": 3
+  },
+  {
+    "topic": "Effects of Force",
+    "question": "A force of 10 N is applied to a box of mass 2 kg. What is its acceleration?",
+    "options": ["2 m/s²", "5 m/s²", "10 m/s²", "20 m/s²"],
+    "answer": "5 m/s²",
+    "id": 4
+  },
+  {
+    "topic": "Frictional Force",
+    "question": "Which surface will produce the most friction?",
+    "options": ["Ice", "Wet floor", "Rough sandpaper", "Smooth glass"],
+    "answer": "Rough sandpaper",
+    "id": 5
+  },
+  {
+    "topic": "Frictional Force",
+    "question": "A box with a weight of 50 N is dragged across a rough surface with a frictional force of 15 N. What is the net force acting on the box?",
+    "options": ["50 N", "35 N", "15 N", "65 N"],
+    "answer": "35 N",
+    "id": 6
+  },
+  {
+    "topic": "Gravity and Planet Formation",
+    "question": "What force is responsible for keeping planets in orbit around the Sun?",
+    "options": ["Friction", "Gravity", "Magnetism", "Electric force"],
+    "answer": "Gravity",
+    "id": 7
+  },
+  {
+    "topic": "Gravity and Planet Formation",
+    "question": "An object is dropped from a height. If gravity is 9.8 m/s², what will be its velocity after 3 seconds?",
+    "options": ["9.8 m/s", "19.6 m/s", "29.4 m/s", "39.2 m/s"],
+    "answer": "29.4 m/s",
+    "id": 8
+  },
+  {
+    "topic": "The Moon, the Sun, and the Tides",
+    "question": "Which of these is responsible for ocean tides?",
+    "options": ["The wind", "The Sun’s light", "The Moon’s gravity", "The Earth's rotation"],
+    "answer": "The Moon’s gravity",
+    "id": 9
+  },
+  {
+    "topic": "The Moon, the Sun, and the Tides",
+    "question": "A satellite orbits the Earth at a height where the gravitational field strength is 4 N/kg. If its mass is 500 kg, what is the gravitational force acting on it?",
+    "options": ["2000 N", "500 N", "125 N", "4000 N"],
+    "answer": "2000 N",
+    "id": 10
+  }
+]
