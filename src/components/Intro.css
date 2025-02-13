@@ -1,14 +1,19 @@
-.intro-container {
+.intro-container,
+.quiz-container,
+.exit-container,
+.result-container {
   width: 80%;
   text-align: center;
   margin: 2em auto;
 }
 
-.hero-text h1 {
+.hero-text h1,
+.result-container h1 {
   font-size: 5rem;
 }
 
-.small-text {
+.small-text,
+.result-container p {
   margin-top: 3em;
   font-size: 2rem;
 }
@@ -20,7 +25,9 @@
   align-items: center;
 }
 
-.play-buttons button {
+.play-buttons button,
+.exit-button,
+.restart button {
   height: 3em;
   width: 30%;
   margin-top: 1em;
@@ -32,7 +39,10 @@
     transform 0.2s ease-in-out;
 }
 
-.play-buttons button:hover {
+.play-buttons button:hover,
+.exit-button:hover,
+.option-button:hover,
+.restart button:hover {
   background-color: #001f3f;
   transform: scale(1.05);
   color: #fff;

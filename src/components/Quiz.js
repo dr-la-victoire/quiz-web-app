@@ -2,12 +2,15 @@ import React, { useState } from "react";
 import "./Quiz.css";
 import "./Intro.css";
 import Questions from "./questions.json";
+import { useNavigate } from "react-router-dom";
 
 const Quiz = () => {
+  const navigate = useNavigate();
   // state to change questions
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [userOption, setUserOption] = useState(null);
   const [isAnswered, setIsAnswered] = useState(false);
+  const [score, setScore] = useState(0);
 
   // function to change questions as user picks an answer
   const handleNextQuestion = (option) => {
@@ -15,6 +18,11 @@ const Quiz = () => {
 
     setUserOption(option);
     setIsAnswered(true);
+
+    // scoring conditional
+    if (option === Questions[currentQuestion].answer) {
+      setScore((prevScore) => prevScore + 1);
+    }
 
     // delay to show answers
     setTimeout(() => {
@@ -24,7 +32,7 @@ const Quiz = () => {
         setUserOption(null);
         setIsAnswered(false);
       } else {
-        alert("Quiz completed!");
+        navigate("/result", { state: { score: score + 1 } });
       }
     }, 1500);
   };
@@ -59,6 +67,7 @@ const Quiz = () => {
           );
         })}
       </div>
+      <div className="score">{`Score: ${score}`}</div>
     </div>
   );
 };
