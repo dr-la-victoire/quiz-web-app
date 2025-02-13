@@ -18,7 +18,7 @@ const Intro = () => {
 
       <div className="play-buttons">
         <button onClick={() => navigate("/quiz")}>Start</button>
-        <button>I'll pass</button>
+        <button onClick={() => navigate("/exit")}>I'll pass</button>
       </div>
     </div>
   );
